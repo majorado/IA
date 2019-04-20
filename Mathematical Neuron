@@ -1,0 +1,8 @@
+# I invented a Mathematical Neuron model
+# Y = Hz (Σ (weight * input) + bias)
+# Activation of the layers in the frequencies of 8hz, 6hz and 4hz.
+# Objective here is to enable "scalar learning" or SLM.
+# With the reduction of the gradient.
+# We obtain exponential transformation of the data.
+# we can even make the matrix inversion diagonally and work with a sphere of the data volume.
+# Deep Learning in exponential growth!
